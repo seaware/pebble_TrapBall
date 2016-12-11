@@ -1,0 +1,39 @@
+{
+    "appKeys": {
+        "max_level": 7,
+        "max_score": 6,
+        "mean": 4,
+        "min_score": 5,
+        "n": 3,
+        "post_level": 10,
+        "post_score": 9,
+        "summary": 11,
+        "u_id": 1,
+        "u_name": 2,
+        "variance": 8
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Seaware",
+    "longName": "TrapBall",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/TrapBall_icon.png",
+                "menuIcon": true,
+                "name": "ICON_ID",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "TrapBall",
+    "uuid": "3aa643c5-acd4-4897-9213-5e6812da3857",
+    "versionCode": 1,
+    "versionLabel": "2.2",
+    "watchapp": {
+        "watchface": false
+    }
+}
